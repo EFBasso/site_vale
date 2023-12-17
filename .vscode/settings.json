@@ -1,0 +1,10 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 20,
+    "terminal.integrated.fontSize": 17,
+    "window.zoomLevel": -1.4,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "OM Theme (No Italic)",
+}
